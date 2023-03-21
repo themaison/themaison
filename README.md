@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Vladislav Melnichuk from Sevastopol. <br>Learning the basics of Data Science<br><br>- 🔭 I’m working as Telegram Bot<br>- 📚 I'm currently learning Python, NumPy, MySQL.<br>- 🫧I plan to study ML / AI technologies as well as libraries for data analysis<br>- 🤓 I love learning something new</p>
+<p align="left">I'm Vladislav Melnichuk from Sevastopol. <br>Learning the basics of Data Science<br><br>- 🔭 I’m working as Telegram Bot<br>- 📚 I'm currently learning Python, NumPy, MySQL.<br>-  🫧 I plan to study ML / AI technologies as well as libraries for data analysis<br>- 🤓 I love learning something new</p>
 
 ###
 
@@ -47,7 +47,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" width="52" alt="matlab logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-</p>
 </div>
 
 ###
@@ -59,3 +58,5 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=themaison&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###
