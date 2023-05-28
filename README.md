@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Vladislav - Junior Python Developer 👨‍💻 <br> Sudying Data Science 📊</div>
+### <div align="center">I'm Vladislav - Student of SevSU 👨‍💻</div>
 
 
-- 🔭 I’m currently working on None  
+- 🔭 I’m currently working on Unity 2D Game  
   
 
-- 🌱 I’m currently learning Python and MySQL  
+- 🌱 I’m currently learning MySQL  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
